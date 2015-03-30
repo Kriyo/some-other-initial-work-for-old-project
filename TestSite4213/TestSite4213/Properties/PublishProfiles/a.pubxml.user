@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwlatzrproE+ToLnoc6VSqgAAAAACAAAAAAAQZgAAAAEAACAAAAC13SXl2BTJXugXl6I/Wp/jh/yrCxuX27phXy8NUBVr+gAAAAAOgAAAAAIAACAAAADnZ81aGKpIa5a41HSkkNUPL/YN4+aSmHKFAEnrWaBvEyAAAABGYUtUzsZclHImgLSiPT29rGUi0YSwBVL1rMj89GyvuEAAAACFmQdJh3By0+G2UUzpwv+YaeCcla6bEWS14BtpxaDtF0IWEk4C7xBpew6o1DXSwpUjy5VqTlhmibb8qhUImduu</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>01/04/2013 21:36:36</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>02/11/2013 16:12:45</publishTime>
+    </File>
+    <File Include="assets/apple-touch-icon-114-precomposed.png">
+      <publishTime>02/04/2013 09:53:55</publishTime>
+    </File>
+    <File Include="assets/apple-touch-icon-144-precomposed.png">
+      <publishTime>02/04/2013 09:53:56</publishTime>
+    </File>
+    <File Include="assets/apple-touch-icon-57-precomposed.png">
+      <publishTime>02/04/2013 09:53:55</publishTime>
+    </File>
+    <File Include="assets/apple-touch-icon-72-precomposed.png">
+      <publishTime>02/04/2013 09:53:55</publishTime>
+    </File>
+    <File Include="assets/blurCar.png">
+      <publishTime>02/04/2013 11:35:15</publishTime>
+    </File>
+    <File Include="assets/BlurColor.png">
+      <publishTime>02/04/2013 11:35:15</publishTime>
+    </File>
+    <File Include="assets/blurSpots.png">
+      <publishTime>02/04/2013 11:35:15</publishTime>
+    </File>
+    <File Include="assets/browser-icon-chrome.png">
+      <publishTime>02/04/2013 11:24:01</publishTime>
+    </File>
+    <File Include="assets/browser-icon-firefox.png">
+      <publishTime>02/04/2013 11:24:01</publishTime>
+    </File>
+    <File Include="assets/browser-icon-safari.png">
+      <publishTime>02/04/2013 11:24:01</publishTime>
+    </File>
+    <File Include="assets/favicon.png">
+      <publishTime>02/04/2013 09:53:56</publishTime>
+    </File>
+    <File Include="assets/kristocks.png">
+      <publishTime>02/04/2013 11:27:16</publishTime>
+    </File>
+    <File Include="assets/rsz_kayler.jpg">
+      <publishTime>03/05/2013 11:43:09</publishTime>
+    </File>
+    <File Include="assets/Stox.png">
+      <publishTime>04/07/2013 20:26:50</publishTime>
+    </File>
+    <File Include="BigChunkOfStuff.aspx">
+      <publishTime>04/02/2013 14:14:51</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/ar/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/cs/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/de/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/DotNet.Highcharts.dll">
+      <publishTime>03/06/2013 15:03:29</publishTime>
+    </File>
+    <File Include="bin/es/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/fr/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/he/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/hi/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/it/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/ja/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/ko/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/nl/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/pt/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/ru/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/SanitizerProviders.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/TestSite4213.dll">
+      <publishTime>04/07/2013 22:31:42</publishTime>
+    </File>
+    <File Include="bin/TestSite4213.XmlSerializers.dll">
+      <publishTime>04/07/2013 22:31:42</publishTime>
+    </File>
+    <File Include="bin/tr-TR/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/zh-CHS/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="bin/zh-CHT/AjaxControlToolkit.resources.dll">
+      <publishTime>03/07/2013 12:32:30</publishTime>
+    </File>
+    <File Include="Blog.aspx">
+      <publishTime>03/13/2013 14:06:59</publishTime>
+    </File>
+    <File Include="ChartsNstuff.aspx">
+      <publishTime>03/07/2013 15:15:01</publishTime>
+    </File>
+    <File Include="cloud_data.xml">
+      <publishTime>05/03/2013 12:37:19</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>03/13/2013 15:53:28</publishTime>
+    </File>
+    <File Include="CurrencyConvertor.aspx">
+      <publishTime>04/07/2013 22:06:01</publishTime>
+    </File>
+    <File Include="CurrencySymbols.aspx">
+      <publishTime>03/05/2013 15:54:54</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/07/2013 22:18:31</publishTime>
+    </File>
+    <File Include="ErrorPages/404ErrorPage.aspx">
+      <publishTime>04/07/2013 21:46:37</publishTime>
+    </File>
+    <File Include="GetQuotes.aspx">
+      <publishTime>04/07/2013 20:28:03</publishTime>
+    </File>
+    <File Include="imagecloud.swf">
+      <publishTime>03/05/2013 11:51:07</publishTime>
+    </File>
+    <File Include="js/adapters/mootools-adapter.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/adapters/mootools-adapter.src.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/adapters/prototype-adapter.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/adapters/prototype-adapter.src.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>02/04/2013 09:53:12</publishTime>
+    </File>
+    <File Include="js/highcharts-more.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/highcharts-more.src.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/highcharts.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/highcharts.src.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/jquery-1.7.2.min.js">
+      <publishTime>02/04/2013 12:10:03</publishTime>
+    </File>
+    <File Include="js/jquery.li-scroller.1.0.js">
+      <publishTime>03/13/2013 11:32:23</publishTime>
+    </File>
+    <File Include="js/modules/canvas-tools.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/modules/canvas-tools.src.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/modules/data.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/modules/data.src.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/modules/exporting.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/modules/exporting.src.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/swfobject.js">
+      <publishTime>03/05/2013 11:51:07</publishTime>
+    </File>
+    <File Include="js/themes/dark-blue.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/themes/dark-green.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/themes/gray.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/themes/grid.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="js/themes/skies.js">
+      <publishTime>03/06/2013 14:53:46</publishTime>
+    </File>
+    <File Include="KriStocks.Master">
+      <publishTime>04/07/2013 21:56:36</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>02/04/2013 18:30:50</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/07/2013 12:32:35</publishTime>
+    </File>
+    <File Include="Privacy.aspx">
+      <publishTime>03/05/2013 15:45:53</publishTime>
+    </File>
+    <File Include="Properties/Settings.settings">
+      <publishTime>01/03/2013 14:37:56</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>03/06/2013 15:28:51</publishTime>
+    </File>
+    <File Include="RegisterPage.aspx">
+      <publishTime>04/02/2013 10:26:44</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/adapters/mootools-adapter.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/adapters/mootools-adapter.src.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/adapters/prototype-adapter.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/adapters/prototype-adapter.src.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/highcharts.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/highcharts.src.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/modules/canvas-tools.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/modules/canvas-tools.src.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/modules/exporting.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/modules/exporting.src.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/themes/dark-blue.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/themes/dark-green.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/themes/gray.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/themes/grid.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/Highcharts-2.2.1/js/themes/skies.js">
+      <publishTime>03/06/2013 15:03:30</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>03/06/2013 15:03:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>03/06/2013 15:03:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>03/06/2013 15:03:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>03/06/2013 15:10:20</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>03/06/2013 15:10:20</publishTime>
+    </File>
+    <File Include="SharePrices.aspx">
+      <publishTime>03/02/2013 15:20:31</publishTime>
+    </File>
+    <File Include="stock.xsl">
+      <publishTime>02/05/2013 22:58:25</publishTime>
+    </File>
+    <File Include="Styles/bootstrap-responsive.css">
+      <publishTime>03/14/2013 15:56:16</publishTime>
+    </File>
+    <File Include="Styles/bootstrap.css">
+      <publishTime>03/14/2013 15:56:16</publishTime>
+    </File>
+    <File Include="Styles/bootstrap.min.css">
+      <publishTime>03/14/2013 15:56:16</publishTime>
+    </File>
+    <File Include="Styles/style.css">
+      <publishTime>04/07/2013 21:28:16</publishTime>
+    </File>
+    <File Include="Terms.aspx">
+      <publishTime>03/05/2013 13:55:24</publishTime>
+    </File>
+    <File Include="TickingAway.aspx">
+      <publishTime>03/13/2013 12:46:34</publishTime>
+    </File>
+    <File Include="Web References/net.webservicex.www/CurrencyConvertor.wsdl">
+      <publishTime>03/01/2013 14:37:53</publishTime>
+    </File>
+    <File Include="Web References/net.webservicex.www/Reference.map">
+      <publishTime>03/01/2013 14:37:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/07/2013 22:31:45</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>04/02/2013 10:07:59</publishTime>
+    </File>
+    <File Include="ZachLol.aspx">
+      <publishTime>03/07/2013 12:21:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

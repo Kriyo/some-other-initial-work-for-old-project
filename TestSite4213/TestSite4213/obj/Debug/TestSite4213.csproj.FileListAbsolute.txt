@@ -1,0 +1,10 @@
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\TestSite4213\TestSite4213\bin\TestSite4213.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\TestSite4213\TestSite4213\bin\TestSite4213.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\TestSite4213\TestSite4213\obj\Debug\TestSite4213.dll
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\TestSite4213\TestSite4213\obj\Debug\TestSite4213.pdb
+C:\Users\Chris\Documents\Visual Studio 2012\Projects\TestSite4213\TestSite4213\obj\Debug\TestSite4213.csprojResolveAssemblyReference.cache
+C:\Users\Kri\Documents\Visual Studio 2012\Projects\TestSite4213\TestSite4213\bin\TestSite4213.dll
+C:\Users\Kri\Documents\Visual Studio 2012\Projects\TestSite4213\TestSite4213\bin\TestSite4213.pdb
+C:\Users\Kri\Documents\Visual Studio 2012\Projects\TestSite4213\TestSite4213\obj\Debug\TestSite4213.dll
+C:\Users\Kri\Documents\Visual Studio 2012\Projects\TestSite4213\TestSite4213\obj\Debug\TestSite4213.pdb
+C:\Users\Kri\Documents\Visual Studio 2012\Projects\TestSite4213\TestSite4213\obj\Debug\TestSite4213.csprojResolveAssemblyReference.cache
